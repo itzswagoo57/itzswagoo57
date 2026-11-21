@@ -1,16 +1,13 @@
-## Hi there 👋
+## yo, i'm itzswagoo57 👋
 
-<!--
-**itzswagoo57/itzswagoo57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Japan.
 
-Here are some ideas to get you started:
+- 🌱 Learning React Native
+- 🛠️ Tinkering with side projects on weekends
+- 👯 Open to collaborating on open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itzswagoo57&hide_border=true&theme=merko" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzswagoo57&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Flutter-bd93f9?style=for-the-badge&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-bd93f9?style=for-the-badge&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/React%20Native-bd93f9?style=for-the-badge&logoColor=white" alt="React Native" />
